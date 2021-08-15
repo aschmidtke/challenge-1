@@ -7,6 +7,15 @@
 body {
     background-color: #d9dcd6;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
 /* header and navigation style start */
 
 header {
@@ -42,15 +51,6 @@ header nav ul li a {
 
 /* header and navigation style end */
 
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 /* Hero style start */
 .hero {
     height: 800px;
@@ -125,11 +125,6 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-
-.main-content {
-    display: inline-block
-    vertical-align: top;
 }
 
 /* main content style end */
