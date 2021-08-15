@@ -128,8 +128,8 @@ p {
 }
 
 .main-content {
-    display: inline
-    vertical-align;
+    display: inline-block
+    vertical-align: top;
 }
 
 /* main content style end */
